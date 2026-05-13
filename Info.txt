@@ -1,5 +1,0 @@
-This is the latest Windows build of JS8Call installer.
-
-73,
--Joe-
-K0OG
